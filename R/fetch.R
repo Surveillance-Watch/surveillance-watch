@@ -141,6 +141,7 @@ parse_odni <- function(resp, source) {
     date  = ""
   ) |>
     filter(nchar(title) > 10) |>
+    filter(!str_detect(title, "^Reports & Publications")) |>
     distinct(url, .keep_all = TRUE) |>
     mutate(item_id = url) |>
     select(item_id, title, url, date) |>
