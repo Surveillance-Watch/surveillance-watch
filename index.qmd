@@ -89,8 +89,8 @@ if (is.null(failures) || nrow(failures) == 0) {
   cat("_No source failures logged._\n")
 } else {
   failures |>
+    filter(date == max(date)) |>
     arrange(desc(date)) |>
-    head(20) |>
     select(Date = date, Source = source_id, Error = error) |>
     kable()
 }
