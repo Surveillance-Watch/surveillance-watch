@@ -10,5 +10,5 @@ format:
   html:
     theme: flatly
     css: styles.css
-    toc: false
+    toc: true
     page-layout: full
