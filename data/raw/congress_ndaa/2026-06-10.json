@@ -1,0 +1,316 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-20",
+                "text": "Read twice and referred to the Select Committee on Intelligence."
+            },
+            "number": "4586",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Blocking CCP Spy Tech Act of 2026",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/4586?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-07-24",
+                "text": "Became Public Law No: 119-29."
+            },
+            "number": "517",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Filing Relief for Natural Disasters Act",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/517?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-01-16",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "132",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Filing Relief for Natural Disasters Act",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/132?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-01-15",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "94",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Miracle on Ice Congressional Gold Medal Act",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/94?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-12",
+                "text": "Became Public Law No: 119-53."
+            },
+            "number": "452",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Miracle on Ice Congressional Gold Medal Act",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/452?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-01-23",
+                "text": "Became Public Law No: 119-73."
+            },
+            "number": "4323",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Trafficking Survivors Relief Act",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4323?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-07-10",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2255",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Trafficking Survivors Relief Act of 2025",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/2255?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-02-14",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "1379",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Trafficking Survivors Relief Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1379?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-02-27",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "785",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Alaska Native Vietnam Era Veterans Land Allotment Extension Act",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/785?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-26",
+                "text": "Became Public Law No: 119-63."
+            },
+            "number": "410",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/410?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-03-26",
+                "text": "Became Private Law No: 119-1."
+            },
+            "number": "3377",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To authorize the President to award the Medal of Honor to James Capers, Jr., for acts of valor as a member of the Marine Corps during the Vietnam War.",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3377?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-02-04",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "3781",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to authorize the President to award the Medal of Honor to James Capers, Jr., for acts of valor as a member of the Marine Corps during the Vietnam War",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/3781?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-12",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "8742",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Respect Tribal IDs Act",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8742?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "actionTime": "19:22:01",
+                "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2."
+            },
+            "number": "8312",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Fraud Prevention and Accountability Act",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8312?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "actionTime": "19:22:01",
+                "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2."
+            },
+            "number": "1335",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.",
+            "type": "HRES",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1335?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "text": "Placed on the House Calendar, Calendar No. 79."
+            },
+            "number": "1345",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.",
+            "type": "HRES",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1345?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "actionTime": "19:22:01",
+                "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2."
+            },
+            "number": "2",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Secure America Act",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/2?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "actionTime": "19:22:01",
+                "text": "Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2."
+            },
+            "number": "8464",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stopping Fraudulent Payments Act",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8464?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-03-13",
+                "text": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 28."
+            },
+            "number": "1008",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Cape Fox Land Entitlement Finalization Act of 2025",
+            "type": "S",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/1008?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-19",
+                "text": "Became Public Law No: 119-93."
+            },
+            "number": "2815",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Cape Fox Land Entitlement Finalization Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-06-09",
+            "updateDateIncludingText": "2026-06-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2815?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 427815,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

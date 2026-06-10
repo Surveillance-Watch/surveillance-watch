@@ -13,3 +13,5 @@ Caused by error in `curl::curl_fetch_memory()`:
 Connection timed out after 30001 milliseconds"
 2026-06-10,congress_ndaa,CONGRESS_API_KEY not set; skipping Congress.gov
 2026-06-10,lawfare_rss,HTTP 403 Forbidden.
+2026-06-10,odni_press,HTTP 404 Not Found.
+2026-06-10,lawfare_rss,HTTP 403 Forbidden.
