@@ -121,6 +121,8 @@ parse_fisc <- function(resp, source) {
     date  = ""
   ) |>
     filter(nchar(title) > 5) |>
+    filter(!title %in% c("Date Posted", "Public Filing")) |>
+    filter(!str_detect(title, "^[0-9]{2}-[0-9]+$")) |>
     distinct(url, .keep_all = TRUE) |>
     mutate(item_id = url) |>
     select(item_id, title, url, date) |>
@@ -156,6 +158,8 @@ parse_pclob <- function(resp, source) {
     url   = url_absolute(html_attr(links, "href"), "https://www.pclob.gov"),
     date  = ""
   ) |>
+    filter(!is.na(url)) |>
+    mutate(title = str_squish(title)) |>
     filter(nchar(title) > 10) |>
     distinct(url, .keep_all = TRUE) |>
     mutate(item_id = url) |>
