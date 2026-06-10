@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Surveillance Watch"
+  description: "A weekly public-records monitor: FISA Court filings, ODNI releases, executive orders, and oversight reports."
+
+format:
+  html:
+    theme: [flatly, styles.css]
+    toc: false
+    page-layout: full

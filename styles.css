@@ -1,0 +1,42 @@
+/* styles.css — restrained, records-room feel: typographic, no decoration */
+
+body {
+  font-family: "Source Serif 4", Georgia, serif;
+  line-height: 1.55;
+}
+
+h1.title {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.subtitle {
+  color: #5a5a5a;
+  font-style: italic;
+}
+
+h2 {
+  border-bottom: 2px solid #1a1a1a;
+  padding-bottom: 0.2em;
+  margin-top: 2em;
+  font-variant: small-caps;
+  letter-spacing: 0.5px;
+}
+
+h3 {
+  font-size: 1.05rem;
+  color: #333;
+}
+
+table {
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  font-size: 0.92rem;
+}
+
+table td:first-child {
+  white-space: nowrap;
+  color: #666;
+  font-variant-numeric: tabular-nums;
+}
+
+a { color: #0b5e8a; }

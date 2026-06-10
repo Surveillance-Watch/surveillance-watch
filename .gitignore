@@ -1,0 +1,17 @@
+# R session artifacts
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto build output (CI renders this; don't commit it)
+_site/
+/.quarto/
+
+# Local environment secrets; never commit keys
+.Renviron
+.env
+
+# OS noise
+.DS_Store
+Thumbs.db

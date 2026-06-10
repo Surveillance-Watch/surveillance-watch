@@ -1,0 +1,101 @@
+---
+title: "Surveillance Watch"
+subtitle: "Public records on U.S. surveillance authorities, checked weekly. Primary sources first."
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r setup}
+library(dplyr)
+library(readr)
+library(stringr)
+library(knitr)
+
+seen <- if (file.exists("data/seen.csv")) {
+  read_csv("data/seen.csv", col_types = "cccccc")
+} else {
+  tibble(source_id = character(), item_id = character(), title = character(),
+         url = character(), date = character(), first_seen = character())
+}
+
+status <- if (file.exists("data/run_status.csv")) {
+  read_csv("data/run_status.csv", col_types = "ciici")
+} else NULL
+
+failures <- if (file.exists("data/failures.csv")) {
+  read_csv("data/failures.csv", col_types = "ccc")
+} else NULL
+
+source("R/sources.R")
+source_names <- setNames(
+  vapply(SOURCES, function(s) s$name, character(1)),
+  vapply(SOURCES, function(s) s$id, character(1))
+)
+
+linked <- seen |>
+  mutate(
+    source = source_names[source_id],
+    item = paste0("[", str_trunc(title, 110), "](", url, ")")
+  ) |>
+  arrange(desc(first_seen))
+```
+
+```{r status-line, results='asis'}
+if (!is.null(status)) {
+  cat(sprintf(
+    "**Last check:** %s &nbsp;·&nbsp; **%d** of **%d** sources reachable &nbsp;·&nbsp; **%d** new item(s)\n",
+    status$last_run, status$sources_ok, status$sources_all, status$new_items
+  ))
+} else {
+  cat("**No runs recorded yet.** Trigger the `check-sources` workflow (Actions tab → Run workflow) or run `Rscript R/run_check.R` locally.\n")
+}
+```
+
+## New this week
+
+```{r new-items, results='asis'}
+cutoff <- as.character(Sys.Date() - 8)
+fresh <- filter(linked, first_seen >= cutoff)
+if (nrow(fresh) == 0) {
+  cat("_Nothing new since the last check._\n")
+} else {
+  fresh |>
+    select(`First seen` = first_seen, Source = source, Item = item) |>
+    kable()
+}
+```
+
+## Full record by source
+
+```{r by-source, results='asis'}
+if (nrow(linked) == 0) {
+  cat("_No items recorded yet._\n")
+} else {
+  for (sid in unique(linked$source_id)) {
+    block <- filter(linked, source_id == sid)
+    cat("\n###", source_names[[sid]], "\n\n")
+    print(kable(select(block, `First seen` = first_seen, Item = item) |> head(15)))
+    cat("\n")
+  }
+}
+```
+
+## Source health
+
+```{r failures, results='asis'}
+if (is.null(failures) || nrow(failures) == 0) {
+  cat("_No source failures logged._\n")
+} else {
+  failures |>
+    arrange(desc(date)) |>
+    head(20) |>
+    select(Date = date, Source = source_id, Error = error) |>
+    kable()
+}
+```
+
+---
+
+*What this site is: an automated weekly check of primary public records: the [Federal Register](https://www.federalregister.gov) (new executive orders and documents citing EO 12333), the [FISA Court public docket](https://www.fisc.uscourts.gov/public-filings) (declassified opinions, including compliance findings), [ODNI press releases](https://www.dni.gov/index.php/newsroom/press-releases) (annual transparency reports), [PCLOB](https://www.pclob.gov) oversight reports, [Congress.gov](https://www.congress.gov) (FISA-related bills), plus analysis feeds from Lawfare and EFF. Raw copies of everything fetched are archived in the repository, because public documents sometimes disappear.*
