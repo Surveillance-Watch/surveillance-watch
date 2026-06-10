@@ -63,9 +63,9 @@ SOURCES <- list(
 
   list(
     id    = "odni_press",
-    name  = "ODNI — Press releases",
+    name  = "ODNI — Reports & Publications",
     type  = "scrape",
-    url   = "https://www.dni.gov/index.php/newsroom/press-releases",
+    url   = "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2026",
     parse = "parse_odni",
     notes = "Annual Statistical Transparency Report lands here each spring, plus declassification announcements."
   ),
