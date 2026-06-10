@@ -131,7 +131,7 @@ parse_odni <- function(resp, source) {
   body <- resp_body_string(resp)
   archive_raw(source$id, body, "html")
   page <- read_html(body)
-  links <- html_elements(page, "a[href*='press-releases-2']")
+  links <- html_elements(page, "a[href*='reports-publications-2']")
   if (length(links) == 0) return(empty_items())
   tibble(
     title = html_text2(links),
