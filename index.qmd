@@ -21,7 +21,7 @@ seen <- if (file.exists("data/seen.csv")) {
 }
 
 status <- if (file.exists("data/run_status.csv")) {
-  read_csv("data/run_status.csv", col_types = "ciici")
+  read_csv("data/run_status.csv", col_types = "ciiii")
 } else NULL
 
 failures <- if (file.exists("data/failures.csv")) {
