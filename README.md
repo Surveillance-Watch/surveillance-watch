@@ -8,7 +8,6 @@ new as a digest. Raw copies of everything fetched are archived in this
 repository, because public documents sometimes disappear.
 
 **Live site:** https://surveillance-watch.github.io/surveillance-watch/
-*(adjust if your org/repo slug differs)*
 
 ## Why this exists
 
