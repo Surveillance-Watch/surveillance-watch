@@ -1,0 +1,312 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-11",
+                "text": "Became Public Law No: 119-48."
+            },
+            "number": "104",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
+            "type": "HJRES",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hjres/104?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-03",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "194",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Proposing an amendment to the Constitution of the United States to prohibit any person who has citizenship or nationality of, or otherwise owes allegiance to, a country other than the United States from serving as a Representative or Senator in Congress, a Judge of the Supreme Court or any inferior court, an Ambassador, public Minister or Consul, or any other officer of the United States which requires the advice and consent of the Senate, or the President or Vice President unless the person formally and permanently relinquishes such citizenship, nationality, or allegiance.",
+            "type": "HJRES",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hjres/194?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "8992",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "SCCOTUS Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8992?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-01",
+                "text": "Became Public Law No: 119-44."
+            },
+            "number": "2483",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "SUPPORT for Patients and Communities Reauthorization Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2483?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-03-13",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1036",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Improving Access to Addiction Medicine Providers Act",
+            "type": "S",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/s/1036?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-02",
+                "text": "Became Public Law No: 119-46."
+            },
+            "number": "133",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Requesting the Secretary of the Interior to authorize unique and one-time arrangements for displays on the National Mall and the Washington Monument during the period beginning on December 31, 2025, and ending on January 5, 2026.",
+            "type": "HJRES",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hjres/133?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "8993",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Federal Funding Protection Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8993?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-12",
+                "text": "Became Public Law No: 119-54."
+            },
+            "number": "970",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Fairness for Servicemembers and their Families Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/970?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-03-12",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1007",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "9–8–8 Lifeline Cybersecurity Responsibility Act",
+            "type": "S",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/s/1007?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-03-12",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1004",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Pregnant and Postpartum Women Treatment Reauthorization Act",
+            "type": "S",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/s/1004?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "8966",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Subpoena Abuse Prevention Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8966?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-07-24",
+                "text": "Became Public Law No: 119-30."
+            },
+            "number": "1596",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Jocelyn Nungaray National Wildlife Refuge Act",
+            "type": "S",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/s/1596?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-05-07",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "3260",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Mental Health Improvement Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3260?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-04-07",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "2695",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Communities of Recovery Reauthorization Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2695?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8964",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "DONOR Milk Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8964?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "8991",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "SHADOW Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8991?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-20",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "4594",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Subpoena Abuse Prevention Act",
+            "type": "S",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/s/4594?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-12",
+                "text": "Placed on the Union Calendar, Calendar No. 605."
+            },
+            "number": "9310",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Department of Homeland Security Appropriations Act, 2027",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9310?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-07-15",
+                "text": "Became Public Law No: 119-25."
+            },
+            "number": "2215",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Salem Maritime National Historical Park Redesignation and Boundary Study Act",
+            "type": "HR",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2215?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-12-11",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "3456",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Law Enforcement Officer and Firefighter Recreation Pass Act",
+            "type": "S",
+            "updateDate": "2026-06-15",
+            "updateDateIncludingText": "2026-06-15",
+            "url": "https://api.congress.gov/v3/bill/119/s/3456?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 428016,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
