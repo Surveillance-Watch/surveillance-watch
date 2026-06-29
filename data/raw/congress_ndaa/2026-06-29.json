@@ -1,0 +1,314 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-26",
+                "text": "Signed by President."
+            },
+            "number": "1003",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Lulu’s Law",
+            "type": "S",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/s/1003?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-09-19",
+                "actionTime": "10:53:55",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "719",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the life and legacy of Charles Charlie James Kirk.",
+            "type": "HRES",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hres/719?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "4699",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Guaranteeing Universal Access to Cybersecurity Act",
+            "type": "S",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/s/4699?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-18",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1374",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the House of Representatives that parents should be provided clear, accurate, and useful information about the content of video programming so they can make informed decisions for their children.",
+            "type": "HRES",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1374?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-10",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "4735",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protecting Americans from High Electricity Prices Act of 2026",
+            "type": "S",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/s/4735?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-24",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "9332",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Load Forecasting Enhancement Act",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9332?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "4619",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protect Domestic Oil and Gas Small Business Act of 2026",
+            "type": "S",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/s/4619?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8990",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protect Domestic Oil and Gas Small Business Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8990?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-26",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "9028",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "PRC Broker-Dealers and Investment Advisers Moratorium Act",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9028?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-04-30",
+                "text": "Read twice and referred to the Committee on the Budget."
+            },
+            "number": "4455",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Public Lands Integrity Act",
+            "type": "S",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/s/4455?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-23",
+                "text": "Sponsor introductory remarks on measure. (CR H4134)"
+            },
+            "number": "9204",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Gun Safety Innovation Opportunity Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9204?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-04",
+                "text": "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9167",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Public Lands Integrity Act",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9167?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-04",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "9147",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Abraham Accords Expansion Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9147?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-11",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1366",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Commending Taiwan on the 30th anniversary of its first direct presidential election in 1996, and expressing support for Taiwan in the preservation of its democratic institutions.",
+            "type": "HRES",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1366?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-09",
+                "text": "Referred to the Committee on Foreign Relations. (text: CR S2702)"
+            },
+            "number": "763",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing the strategic importance of the Arctic region and supporting continued congressional engagement with Arctic allies and partners.",
+            "type": "SRES",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/sres/763?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-11",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "1358",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the victims and survivors of the December 13, 2025, mass shooting at Brown University in Providence, Rhode Island.",
+            "type": "HRES",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1358?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-04",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9143",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Foreign Adversary Patent Disclosure Act",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9143?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-04",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "9158",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Hong Kong Equal Treatment Act",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9158?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-02",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9098",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Congressional Records Protection Act",
+            "type": "HR",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9098?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-04",
+                "actionTime": "17:50:55",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1336",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+            "type": "HRES",
+            "updateDate": "2026-06-29",
+            "updateDateIncludingText": "2026-06-29",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1336?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 428429,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
