@@ -1,0 +1,315 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-08",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "9195",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Alice Cogswell and Anne Sullivan Macy Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9195?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-04-14",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "8265",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Empowering Shareholders Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8265?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-03-27",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8147",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Prioritizing Rural Broadband Affordability Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8147?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-03-19",
+                "text": "Placed on the Union Calendar, Calendar No. 479."
+            },
+            "number": "6967",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Public Company Advisory Committee Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/6967?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-03-26",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "2358",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ESG Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2358?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-04-20",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "8383",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting Americans’ Savings Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8383?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-24",
+                "text": "Placed on the Union Calendar, Calendar No. 618."
+            },
+            "number": "8286",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting Americans’ Retirement Savings From Politics Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8286?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-18",
+                "text": "Placed on the Union Calendar, Calendar No. 609."
+            },
+            "number": "425",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Repealing Big Brother Overreach Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/425?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-07-30",
+                "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials."
+            },
+            "number": "4790",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "All Aboard Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4790?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-05-14",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "3402",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Securities Exchange Act of 1934 to require certain disclosures by institutional investment managers in connection with proxy advisory firms, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3402?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-07-25",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "4767",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Community College Educational Exchange Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4767?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-04-16",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8358",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Breast Cancer Research Stamp Reauthorization Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8358?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-13",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "8787",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Servicemember Payment Data Privacy and Security Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8787?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-30",
+                "actionTime": "09:16:41",
+                "text": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884."
+            },
+            "number": "8800",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Defense Authorization Act for Fiscal Year 2027",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8800?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-30",
+                "actionTime": "09:16:41",
+                "text": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884."
+            },
+            "number": "8595",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Security, Department of State, and Related Programs Appropriations Act, 2027",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8595?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-03-26",
+                "text": "Considered by Senate (Message from the House considered). (consideration: CR S1647)"
+            },
+            "number": "1383",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Veterans Accessibility Advisory Committee Act of 2025",
+            "type": "S",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/s/1383?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "8962",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "PERFECT Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8962?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-30",
+                "actionTime": "09:16:41",
+                "text": "Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884."
+            },
+            "number": "8884",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Removing Barriers to Work for Disabled Americans Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8884?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-01-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7120",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Purple Heart Freedom to Work Act",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7120?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-12",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "8769",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Military Chaplains Modernization Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-07-06",
+            "updateDateIncludingText": "2026-07-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8769?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 428553,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
