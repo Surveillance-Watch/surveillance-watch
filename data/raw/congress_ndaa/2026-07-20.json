@@ -1,0 +1,315 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-18",
+                "text": "Placed on the Union Calendar, Calendar No. 657."
+            },
+            "number": "113",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.",
+            "type": "HCONRES",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hconres/113?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-01-03",
+                "actionTime": "18:12:02",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "5",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Adopting the Rules of the House of Representatives for the One Hundred Nineteenth Congress, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hres/5?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "8168",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Major Non-NATO Ally Terror Threat Assessment Act",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8168?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-18",
+                "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9770",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Making continuing appropriations for fiscal year 2027, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9770?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-13",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "7257",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "SECURE Grid Act",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7257?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-13",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "7258",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Energy Emergency Leadership Act",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7258?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-13",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "7305",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Energy Threat Analysis Center Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7305?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-13",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "7266",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Rural and Municipal Utility Cybersecurity Act",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7266?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-30",
+                "actionTime": "17:47:30",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1399",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Directing the Committee on Ethics to preserve and publicly release records relating to .monetary settlements involving acts of sexual harassment.",
+            "type": "HRES",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1399?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "4288",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To name the Department of Veterans Affairs community-based outpatient clinic in San Jose, California, as the \"Corporal Patrick D. Tillman VA Clinic\".",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4288?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "6007",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Newton, New Jersey, as the \"Anthony \"Tony\" J. Gallopo VA Clinic\".",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/6007?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "6963",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the community-based outpatient clinic of the Department of Veterans Affairs in Lafayette, Louisiana, as the \"Rodney C. Hamilton Sr. VA Clinic\".",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/6963?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-16",
+                "actionTime": "10:51:04",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "5362",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To name the Department of Veterans Affairs multispecialty clinic in Marietta, Georgia, as the \"Colonel Michael H. Boyce Department of Veterans Affairs Multispecialty Clinic\".",
+            "type": "HR",
+            "updateDate": "2026-07-20",
+            "updateDateIncludingText": "2026-07-20",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5362?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-14",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "9388",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "One-Stop Pilot Program Extension Act",
+            "type": "HR",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9388?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-06-30",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "563",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of July as \"American Pride Month\".",
+            "type": "HRES",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hres/563?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-09-03",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "4215",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "International Traffic in Arms Regulations Licensing Reform Act",
+            "type": "HR",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4215?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-09-03",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "4233",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ARMOR Act",
+            "type": "HR",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4233?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "9712",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Mamas First Act",
+            "type": "HR",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9712?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "9713",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No More Debt Relief to China Act",
+            "type": "HR",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9713?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "9711",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Autocycle Safety Act",
+            "type": "HR",
+            "updateDate": "2026-07-19",
+            "updateDateIncludingText": "2026-07-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9711?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 428853,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
