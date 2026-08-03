@@ -1,0 +1,312 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-22",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "9852",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Slow Down Act",
+            "type": "HR",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9852?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-22",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9834",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No Racketeers on our Shores Act",
+            "type": "HR",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9834?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-06-25",
+                "text": "Referred to the House Committee on Small Business."
+            },
+            "number": "9491",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Prison to Proprietorship Act",
+            "type": "HR",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9491?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-23",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S4268-4269)"
+            },
+            "number": "812",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing the 179th anniversary of the arrival of pioneers belonging to The Church of Jesus Christ of Latter-day Saints to the Great Salt Lake Valley, honoring the enduring pioneer spirit that shaped the American West, and celebrating its continued relevance to the unfolding American story.",
+            "type": "SRES",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/sres/812?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-30",
+                "text": "Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 47. Record Vote Number: 217."
+            },
+            "number": "817",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.",
+            "type": "SRES",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/sres/817?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5007",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "SEARCH Act of 2026",
+            "type": "S",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/s/5007?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-21",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5051",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "AI AGENT Act of 2026",
+            "type": "S",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/s/5051?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-23",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "1451",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
+            "type": "HRES",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1451?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-30",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "5123",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Lunar Landing Day Act",
+            "type": "S",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/s/5123?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5005",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Epstein Files Transparency Act II",
+            "type": "S",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/s/5005?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9694",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Epstein Files Transparency Act II",
+            "type": "HR",
+            "updateDate": "2026-08-03",
+            "updateDateIncludingText": "2026-08-03",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9694?format=json"
+        },
+        {
+            "congress": 107,
+            "latestAction": {
+                "actionDate": "2002-01-11",
+                "text": "Became Public Law No: 107-118."
+            },
+            "number": "2869",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Small Business Liability Relief and Brownfields Revitalization Act ",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/107/hr/2869?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-02-02",
+                "text": "Referred to the Subcommittee on Water Resources and Environment."
+            },
+            "number": "6432",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Brownfields Reauthorization Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/hr/6432?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2025-02-05",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 6."
+            },
+            "number": "347",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Brownfields Reauthorization Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/s/347?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-04-21",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "4355",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Drug Deal Disclosure Act",
+            "type": "S",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/s/4355?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-22",
+                "text": "Placed on the Union Calendar, Calendar No. 580."
+            },
+            "number": "9010",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2027, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9010?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-05-14",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "8739",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Brownfields Revitalization for a Better Tomorrow Act",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8739?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-21",
+                "text": "Ordered to be Reported by the Yeas and Nays: 39 - 10."
+            },
+            "number": "9335",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Advanced Transmission Technology to Reduce Rates Act",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9335?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-21",
+                "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 28 - 21."
+            },
+            "number": "7970",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "STOP Nitazenes Act",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7970?format=json"
+        },
+        {
+            "congress": 119,
+            "latestAction": {
+                "actionDate": "2026-07-21",
+                "text": "Ordered to be Reported by the Yeas and Nays: 44 - 0."
+            },
+            "number": "6529",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting Families from AI Data Center Energy Costs Act",
+            "type": "HR",
+            "updateDate": "2026-08-01",
+            "updateDateIncludingText": "2026-08-01",
+            "url": "https://api.congress.gov/v3/bill/119/hr/6529?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 429331,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
