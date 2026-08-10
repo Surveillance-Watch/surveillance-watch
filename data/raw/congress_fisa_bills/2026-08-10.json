@@ -1,0 +1,333 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-27",
+            "latestAction": {
+                "actionDate": "2026-07-27",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "9963",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "North Korean FAKER Act",
+            "type": "HR",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9963?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-17",
+            "latestAction": {
+                "actionDate": "2025-07-17",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2350",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protect DREAMer Confidentiality Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2350?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-17",
+            "latestAction": {
+                "actionDate": "2025-07-17",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2343",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Restoring Equal Opportunity Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2343?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-15",
+            "latestAction": {
+                "actionDate": "2025-07-15",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2274",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Constitutional Citizenship Clarification Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2274?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-13",
+            "latestAction": {
+                "actionDate": "2025-09-04",
+                "actionTime": "11:24:45",
+                "text": "Held at the desk."
+            },
+            "number": "1038",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "TRACE Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/1038?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-17",
+            "latestAction": {
+                "actionDate": "2025-07-17",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S4459)"
+            },
+            "number": "325",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing the sense of the Senate that the Department of Justice should release appropriate, non-sensitive materials related to the investigation of Jeffrey Epstein to restore public trust, affirm institutional accountability, and prevent the politicization of justice.",
+            "type": "SRES",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/sres/325?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-17",
+            "latestAction": {
+                "actionDate": "2025-07-17",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2316",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Cooper Davis and Devin Norring Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2316?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-28",
+            "latestAction": {
+                "actionDate": "2025-07-28",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2476",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Disability and Age in Jury Service Nondiscrimination Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2476?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-21",
+            "latestAction": {
+                "actionDate": "2025-07-21",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2366",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "SAFE Cities Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2366?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-21",
+            "latestAction": {
+                "actionDate": "2025-07-21",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2360",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Judicial Reorganization Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2360?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-06-12",
+            "latestAction": {
+                "actionDate": "2025-07-21",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4511; text: 6/12/2025 CR S3393)"
+            },
+            "number": "276",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating June 12, 2025, as \"Women Veterans Appreciation Day\".",
+            "type": "SRES",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/sres/276?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-24",
+            "latestAction": {
+                "actionDate": "2025-07-24",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2455",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "TRAIN Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2455?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-24",
+            "latestAction": {
+                "actionDate": "2025-07-24",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S4703-4704)"
+            },
+            "number": "336",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution celebrating the 100th anniversary of Pratt & Whitney.",
+            "type": "SRES",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/sres/336?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-23",
+            "latestAction": {
+                "actionDate": "2025-07-23",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2413",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Justice for Victims of Illegal Alien Murders Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2413?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-24",
+            "latestAction": {
+                "actionDate": "2025-07-24",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S4701-4703)"
+            },
+            "number": "2457",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Domestic Terrorism Prevention Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2457?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-24",
+            "latestAction": {
+                "actionDate": "2025-07-28",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 127."
+            },
+            "number": "1098",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Opioid Overdose Data Collection Enhancement Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/1098?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-08",
+            "latestAction": {
+                "actionDate": "2025-07-17",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4490; text: 07/08/2025 CR S4259)"
+            },
+            "number": "314",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing the importance of trademarks in the economy and the role of trademarks in protecting consumer safety, by designating the month of July as \"National Anti-Counterfeiting and Consumer Education and Awareness Month\".",
+            "type": "SRES",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/sres/314?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-23",
+            "latestAction": {
+                "actionDate": "2025-07-23",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2401",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "287(g) Program Protection Act",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2401?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-24",
+            "latestAction": {
+                "actionDate": "2025-07-24",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S4703)"
+            },
+            "number": "335",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution calling on Federal and State courts to provide full transparency to the people of the United States by unsealing materials concerning Mr. Jeffrey Epstein.",
+            "type": "SRES",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/sres/335?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-28",
+            "latestAction": {
+                "actionDate": "2025-07-28",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "2479",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Reserve Organization of America Charter Amendments Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-10",
+            "updateDateIncludingText": "2026-08-10",
+            "url": "https://api.congress.gov/v3/bill/119/s/2479?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 429611,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
