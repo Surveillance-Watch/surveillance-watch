@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-22",
+            "latestAction": {
+                "actionDate": "2026-06-22",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S3025; text: CR S2987-2988)"
+            },
+            "number": "783",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the designation of June 11, 2026, as \"Anti-Illicit Trade Awareness Day\".",
+            "type": "SRES",
+            "updateDate": "2026-08-24",
+            "updateDateIncludingText": "2026-08-24",
+            "url": "https://api.congress.gov/v3/bill/119/sres/783?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-18",
+            "latestAction": {
+                "actionDate": "2026-06-18",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "1376",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the contributions and goals of Lavender Growers Month.",
+            "type": "HRES",
+            "updateDate": "2026-08-24",
+            "updateDateIncludingText": "2026-08-24",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1376?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-14",
+            "latestAction": {
+                "actionDate": "2026-05-14",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "8838",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Congressional Prediction Market Ban Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8838?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-27",
+            "latestAction": {
+                "actionDate": "2026-04-27",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "4390",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Ending Discrimination in Government Contracting Act",
+            "type": "S",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/s/4390?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-22",
+            "latestAction": {
+                "actionDate": "2026-07-22",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "9856",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Prediction Markets Are Gambling Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9856?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-30",
+            "latestAction": {
+                "actionDate": "2026-04-30",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "4469",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Prediction Market Act of 2026",
+            "type": "S",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/s/4469?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-24",
+            "latestAction": {
+                "actionDate": "2026-06-24",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9429",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "The Public Service Accountability Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9429?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-20",
+            "latestAction": {
+                "actionDate": "2026-08-05",
+                "text": "By Senator Cotton from Select Committee on Intelligence filed written report. Report No. 119-133. Additional and Minority views filed."
+            },
+            "number": "4615",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Intelligence Authorization Act for Fiscal Year 2027",
+            "type": "S",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/s/4615?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-18",
+            "latestAction": {
+                "actionDate": "2026-06-24",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 5 - 4."
+            },
+            "number": "9367",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stop Lawmakers From Predicting Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9367?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-15",
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9706",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Facial Recognition to Protect Children Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9706?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-27",
+            "latestAction": {
+                "actionDate": "2026-04-27",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Small Business, Transportation and Infrastructure, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8511",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Ending Discrimination in Government Contracting Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8511?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-29",
+            "latestAction": {
+                "actionDate": "2026-05-29",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "9082",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honesty and Trust in Service Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9082?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-21",
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8970",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Gambling Disorder Health Study Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8970?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-02",
+            "latestAction": {
+                "actionDate": "2026-08-05",
+                "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4449)"
+            },
+            "number": "4668",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protect College Sports Act of 2026",
+            "type": "S",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/s/4668?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-19",
+            "latestAction": {
+                "actionDate": "2026-05-19",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "8912",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Campaign Funds Integrity Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8912?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-30",
+            "latestAction": {
+                "actionDate": "2026-06-30",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration, the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9560",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No Profiting from Public Service Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9560?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-20",
+            "latestAction": {
+                "actionDate": "2026-06-10",
+                "text": "Became Public Law No: 119-98."
+            },
+            "number": "2",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Secure America Act",
+            "type": "S",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/s/2?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "10137",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No Insider Trading on National Security Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10137?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10126",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "DEMAND Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10126?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "10131",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Archives Protection Act",
+            "type": "HR",
+            "updateDate": "2026-08-22",
+            "updateDateIncludingText": "2026-08-22",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10131?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 429687,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
