@@ -1,0 +1,333 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-02-12",
+            "latestAction": {
+                "actionDate": "2026-02-12",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "7559",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Internal Revenue Code of 1986 to deny deduction for outsourcing payments.",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7559?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-15",
+            "latestAction": {
+                "actionDate": "2026-07-27",
+                "text": "Motion to proceed to consideration of measure made in Senate. (CR S4276)"
+            },
+            "number": "4784",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "National Defense Authorization Act for Fiscal Year 2027",
+            "type": "S",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/s/4784?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-05",
+            "latestAction": {
+                "actionDate": "2025-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3186",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Universal Savings Account Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3186?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-03-25",
+            "latestAction": {
+                "actionDate": "2026-03-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "4214",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Artificial Intelligence Data Center Moratorium Act",
+            "type": "S",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/s/4214?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-13",
+            "latestAction": {
+                "actionDate": "2026-07-22",
+                "actionTime": "16:38:33",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "8800",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Defense Authorization Act for Fiscal Year 2027",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8800?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10126",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "DEMAND Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10126?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-14",
+            "latestAction": {
+                "actionDate": "2026-07-22",
+                "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+            },
+            "number": "1759",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Supersonic Aviation Modernization Act",
+            "type": "S",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/s/1759?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-29",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 681."
+            },
+            "number": "4795",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protect Economic and Academic Freedom Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4795?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-29",
+            "latestAction": {
+                "actionDate": "2026-07-22",
+                "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+            },
+            "number": "4429",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Connected Vehicle Security Act of 2026",
+            "type": "S",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/s/4429?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-24",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 667."
+            },
+            "number": "9436",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Northeast Lobsterman Protection Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9436?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "10131",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Archives Protection Act",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10131?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "10135",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Not In My Barn Yard Act",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10135?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on House Administration."
+            },
+            "number": "10121",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To obtain and direct the placement in the Capitol or on the Capitol Grounds of a statue to honor American humanitarian and star athlete Roberto Clemente of Puerto Rico.",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10121?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-13",
+            "latestAction": {
+                "actionDate": "2023-09-12",
+                "text": "Referred to the Subcommittee on Oversight."
+            },
+            "number": "4065",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To obtain and direct the placement in the Capitol or on the Capitol Grounds of a statue to honor American humanitarian and star athlete Roberto Clemente of Puerto Rico.",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4065?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "10137",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No Insider Trading on National Security Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10137?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-12-03",
+            "latestAction": {
+                "actionDate": "2025-12-03",
+                "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
+            },
+            "number": "3341",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Investing in All of America Act of 2025",
+            "type": "S",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/s/3341?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-27",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10158",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Automotive National and Economic Security Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10158?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-27",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1496",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Commemorating the fifth anniversary of the evacuation of Afghanistan, the Gulf war era, and honoring Gulf war era veterans.",
+            "type": "HRES",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1496?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-16",
+            "latestAction": {
+                "actionDate": "2026-07-16",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5025",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Lindsey O. Graham Sanctioning Russia Act of 2026",
+            "type": "S",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/s/5025?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-11",
+            "latestAction": {
+                "actionDate": "2026-08-10",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "5334",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-08-31",
+            "updateDateIncludingText": "2026-08-31",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5334?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 429750,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
