@@ -1,0 +1,334 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-27",
+            "latestAction": {
+                "actionDate": "2025-11-20",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "1736",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Generative AI Terrorism Risk Assessment Act",
+            "type": "HR",
+            "updateDate": "2026-09-07",
+            "updateDateIncludingText": "2026-09-07",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1736?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-06",
+            "latestAction": {
+                "actionDate": "2025-09-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "1107",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting Veteran Access to Telemedicine Services Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-09-07",
+            "updateDateIncludingText": "2026-09-07",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1107?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-05",
+            "latestAction": {
+                "actionDate": "2025-12-04",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1005",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Combating the Lies of Authoritarians in School Systems Act",
+            "type": "HR",
+            "updateDate": "2026-09-07",
+            "updateDateIncludingText": "2026-09-07",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1005?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-06-26",
+            "latestAction": {
+                "actionDate": "2025-12-16",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "4183",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Federal Maritime Commission Reauthorization Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-09-07",
+            "updateDateIncludingText": "2026-09-07",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4183?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-29",
+            "latestAction": {
+                "actionDate": "2026-08-08",
+                "text": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4557)"
+            },
+            "number": "3633",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Digital Asset Market Clarity Act",
+            "type": "HR",
+            "updateDate": "2026-09-07",
+            "updateDateIncludingText": "2026-09-07",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3633?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-17",
+            "latestAction": {
+                "actionDate": "2025-09-03",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "4490",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "PARTNER Act",
+            "type": "HR",
+            "updateDate": "2026-09-07",
+            "updateDateIncludingText": "2026-09-07",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4490?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-27",
+            "latestAction": {
+                "actionDate": "2026-05-20",
+                "actionTime": "16:38:50",
+                "text": "Held at the desk."
+            },
+            "number": "790",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
+            "type": "S",
+            "updateDate": "2026-09-06",
+            "updateDateIncludingText": "2026-09-06",
+            "url": "https://api.congress.gov/v3/bill/119/s/790?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-27",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 671."
+            },
+            "number": "1693",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
+            "type": "HR",
+            "updateDate": "2026-09-06",
+            "updateDateIncludingText": "2026-09-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1693?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-05",
+            "latestAction": {
+                "actionDate": "2026-08-31",
+                "actionTime": "17:14:29",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1869",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-06",
+            "updateDateIncludingText": "2026-09-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1869?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-02-11",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 676."
+            },
+            "number": "7487",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Rural Jobs and Hydropower Expansion Act",
+            "type": "HR",
+            "updateDate": "2026-09-06",
+            "updateDateIncludingText": "2026-09-06",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7487?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-01-24",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 670."
+            },
+            "number": "726",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Crow Tribe Water Rights Settlement Amendments Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/726?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-01-28",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 668."
+            },
+            "number": "741",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stronger Engagement for Indian Health Needs Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/741?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "10285",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Telecommunications GAP Act",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10285?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "10241",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "I–47 Future Interstate Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10241?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "10268",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Ending Restaurant Purchases with SNAP Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10268?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Armed Services, Veterans' Affairs, Oversight and Government Reform, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10280",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "9–8–8 Implementation Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10280?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "10279",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 9995 Southeast Federal Highway in Hobe Sound, Florida, as the \"Special Operations Chief Petty Officer Aaron Carson Vaughn Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10279?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "10284",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Smart Meter Data Privacy Protection Act",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10284?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "10273",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Fairness for Farm Workers Act",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10273?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-03",
+            "latestAction": {
+                "actionDate": "2026-09-03",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "10291",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "JARED Act",
+            "type": "HR",
+            "updateDate": "2026-09-05",
+            "updateDateIncludingText": "2026-09-05",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10291?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 429887,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
