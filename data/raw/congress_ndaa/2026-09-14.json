@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-10",
+            "latestAction": {
+                "actionDate": "2026-09-10",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "10326",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "PROOF Act",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10326?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-10",
+            "latestAction": {
+                "actionDate": "2026-09-10",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10348",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title XVIII of the Social Security Act to strengthen program integrity oversight for the Health Care Fraud and Abuse Control Program, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10348?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-10",
+            "latestAction": {
+                "actionDate": "2026-08-10",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "213",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the \"California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision\".",
+            "type": "HJRES",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hjres/213?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-16",
+            "latestAction": {
+                "actionDate": "2026-07-21",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0."
+            },
+            "number": "9723",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Fit Future Act",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9723?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-06",
+            "latestAction": {
+                "actionDate": "2025-05-06",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S2777)"
+            },
+            "number": "205",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution condemning recent attacks on the free press by President Donald J. Trump and reaffirming the United States commitment to preserving and protecting freedom of the press as a cornerstone of democracy.",
+            "type": "SRES",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/sres/205?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-04",
+            "latestAction": {
+                "actionDate": "2026-05-13",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 9."
+            },
+            "number": "8661",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Foreign Military Financing Loan Authorization Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8661?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-04",
+            "latestAction": {
+                "actionDate": "2026-05-13",
+                "text": "Ordered to be Reported Unfavorably by the Yeas and Nays: 23 - 23."
+            },
+            "number": "8649",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expanding the Defense Industrial Base Sales Act",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8649?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-28",
+            "latestAction": {
+                "actionDate": "2026-05-13",
+                "text": "Ordered to be Reported by the Yeas and Nays: 39 - 7."
+            },
+            "number": "8562",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate a building of the Chancery of the United States in Pristina, Kosovo, as the \"Eliot L. Engel Building\".",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8562?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-27",
+            "latestAction": {
+                "actionDate": "2026-07-27",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 508."
+            },
+            "number": "4392",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Energy Security Pacts Act",
+            "type": "S",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/s/4392?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-03",
+            "latestAction": {
+                "actionDate": "2026-09-01",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "9129",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "GUARD Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9129?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-16",
+            "latestAction": {
+                "actionDate": "2026-04-22",
+                "text": "Ordered to be Reported by the Yeas and Nays: 41 - 2."
+            },
+            "number": "8320",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "USA 6G Global Leadership Act",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8320?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-23",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Placed on the Union Calendar, Calendar No. 660."
+            },
+            "number": "8476",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No Antisemitism in Education Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8476?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-15",
+            "latestAction": {
+                "actionDate": "2026-05-13",
+                "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 44 - 2."
+            },
+            "number": "1179",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Condemning attacks on civilians in Sudan and calling for an end to external support to the warring parties and for efforts to promote a negotiated settlement of the war.",
+            "type": "HRES",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1179?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-15",
+            "latestAction": {
+                "actionDate": "2026-06-18",
+                "text": "Placed on the Union Calendar, Calendar No. 611."
+            },
+            "number": "8290",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "China Exchange Rate Accountability Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8290?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-09-02",
+                "text": "Subcommittee Hearings Held"
+            },
+            "number": "10128",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To codify Secretary's Order 3434 of the Department of the Interior.",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10128?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-15",
+            "latestAction": {
+                "actionDate": "2026-04-22",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 0."
+            },
+            "number": "8287",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Semiconductor Controls Effectiveness Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8287?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-15",
+            "latestAction": {
+                "actionDate": "2026-04-22",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 0."
+            },
+            "number": "8283",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Deterring American AI Model Theft Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8283?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-23",
+            "latestAction": {
+                "actionDate": "2025-05-23",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "442",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing the importance of California's public higher education systems and reaffirming the United States' commitment to supporting these institutions.",
+            "type": "HRES",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hres/442?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-02",
+            "latestAction": {
+                "actionDate": "2026-06-02",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9086",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Foreign Service Modernization Act",
+            "type": "HR",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9086?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-29",
+            "latestAction": {
+                "actionDate": "2026-08-04",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537."
+            },
+            "number": "2511",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "College Transparency Act",
+            "type": "S",
+            "updateDate": "2026-09-14",
+            "updateDateIncludingText": "2026-09-14",
+            "url": "https://api.congress.gov/v3/bill/119/s/2511?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 429950,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
