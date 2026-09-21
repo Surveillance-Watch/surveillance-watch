@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-11",
+            "latestAction": {
+                "actionDate": "2026-09-11",
+                "text": "Became Public Law No: 119-106."
+            },
+            "number": "2069",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stop Secret Spending Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2069?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-15",
+            "latestAction": {
+                "actionDate": "2026-09-11",
+                "text": "Became Public Law No: 119-108."
+            },
+            "number": "5366",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5366?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-18",
+            "latestAction": {
+                "actionDate": "2026-09-11",
+                "text": "Became Public Law No: 119-107."
+            },
+            "number": "2196",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Emergency Medical Services Memorial Extension Act",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2196?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-13",
+            "latestAction": {
+                "actionDate": "2026-09-11",
+                "text": "Became Public Law No: 119-105."
+            },
+            "number": "1276",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1276?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-21",
+            "latestAction": {
+                "actionDate": "2025-05-21",
+                "text": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S3064-3065)"
+            },
+            "number": "243",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution condemning the financial entanglements of World Liberty Financial, Inc. with President Donald J. Trump, the Trump family, and the Trump Administration.",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/243?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-11",
+            "latestAction": {
+                "actionDate": "2026-09-18",
+                "text": "Became Public Law No: 119-111."
+            },
+            "number": "5334",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5334?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-10",
+            "latestAction": {
+                "actionDate": "2026-09-16",
+                "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0."
+            },
+            "number": "10334",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "EFIN Verification Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10334?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-14",
+            "latestAction": {
+                "actionDate": "2026-09-16",
+                "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 38 - 5."
+            },
+            "number": "10357",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Digital Asset Tax Certainty Act",
+            "type": "HR",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10357?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on Armed Services. (text: CR S4804)"
+            },
+            "number": "869",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing the sense of the Senate that the third Friday of September should be recognized as \"National POW/MIA Recognition Day\".",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/869?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on Veterans' Affairs. (text: CR S4803-4804)"
+            },
+            "number": "868",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing September 20, 2026, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/868?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S4803)"
+            },
+            "number": "867",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating the week of September 14 through September 20, 2026, as \"Interscholastic Athletic Administration Week\".",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/867?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4802)"
+            },
+            "number": "866",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution supporting the designation of October 2026 as \"Substance Use & Misuse Prevention Month\" to raise awareness of substance use and misuse in the United States.",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/866?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on Foreign Relations. (text: CR S4802)"
+            },
+            "number": "865",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing the sense of the Senate that the People's Republic of China has engaged in the arbitrary or wrongful detention of American academics and has otherwise harmed the prospects for scientific collaboration and people-to-people exchanges between the United States and the People's Republic of China.",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/865?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-30",
+            "latestAction": {
+                "actionDate": "2026-08-07",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)"
+            },
+            "number": "820",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating August 7, 2026, as \"National Lighthouse Day\".",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/820?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on Environment and Public Works. (text: CR S4801-4802)"
+            },
+            "number": "864",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the designation of the week of September 19 through September 26, 2026, as \"National Estuaries Week\".",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/864?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-17",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4800-4801)"
+            },
+            "number": "863",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for designation of the week of September 13 through 19, 2026, as \"National Adult Education and Family Literacy Week\".",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/863?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-06-02",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Cloture motion on the measure presented in Senate. (CR S4789)"
+            },
+            "number": "4668",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protect College Sports Act of 2026",
+            "type": "S",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/s/4668?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-30",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 639."
+            },
+            "number": "2554",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Alaska Native Landless Equity Act",
+            "type": "S",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/s/2554?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-05",
+            "latestAction": {
+                "actionDate": "2026-08-05",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5254",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Civil Nuclear Export Act of 2026",
+            "type": "S",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/s/5254?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-23",
+            "latestAction": {
+                "actionDate": "2026-09-17",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4790)"
+            },
+            "number": "816",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+            "type": "SRES",
+            "updateDate": "2026-09-21",
+            "updateDateIncludingText": "2026-09-21",
+            "url": "https://api.congress.gov/v3/bill/119/sres/816?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 430236,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
