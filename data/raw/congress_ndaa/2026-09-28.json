@@ -1,0 +1,342 @@
+{
+    "bills": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-11-18",
+            "latestAction": {
+                "actionDate": "2024-11-19",
+                "actionTime": "14:06:04",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1576",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 1449) to amend the Geothermal Steam Act of 1970 to increase the frequency of lease sales, to require replacement sales, and for other purposes, and providing for consideration of the bill (H.R. 9495) to amend the Internal Revenue Code of 1986 to postpone tax deadlines and reimburse paid late fees for United States nationals who are unlawfully or wrongfully detained or held hostage abroad, to terminate the tax-exempt status of terrorist supporting organizations, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1576?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-30",
+            "latestAction": {
+                "actionDate": "2026-08-07",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)"
+            },
+            "number": "820",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating August 7, 2026, as \"National Lighthouse Day\".",
+            "type": "SRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/sres/820?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-11-12",
+            "latestAction": {
+                "actionDate": "2024-11-13",
+                "actionTime": "14:08:01",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1568",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 8932) to establish an earlier application processing cycle for the FAFSA; providing for consideration of the bill (H.R. 7409) to amend the Geothermal Steam Act of 1970 to waive the requirement for a Federal drilling permit for certain activities, to exempt certain activities from the requirements of the National Environmental Policy Act of 1969, and for other purposes; and providing for consideration of the bill (H.R. 8446) to amend the Energy Act of 2020 to include critical materials in the definition of critical mineral, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1568?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-05-25",
+            "latestAction": {
+                "actionDate": "2021-05-26",
+                "text": "Referred to the Subcommittee on Consumer Protection and Commerce."
+            },
+            "number": "3520",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ENCRYPT Act of 2021",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/117/hr/3520?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-31",
+            "latestAction": {
+                "actionDate": "2025-03-31",
+                "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2508",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ENCRYPT Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2508?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-13",
+            "latestAction": {
+                "actionDate": "2026-09-11",
+                "text": "Became Public Law No: 119-105."
+            },
+            "number": "1276",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1276?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-08-29",
+            "latestAction": {
+                "actionDate": "2023-09-01",
+                "text": "Referred to the Subcommittee on Innovation, Data, and Commerce."
+            },
+            "number": "5311",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ENCRYPT Act of 2023",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5311?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-13",
+            "latestAction": {
+                "actionDate": "2026-03-04",
+                "text": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably."
+            },
+            "number": "601",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to remove restrictions from a parcel of land in Paducah, Kentucky.",
+            "type": "S",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/s/601?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-09-23",
+            "latestAction": {
+                "actionDate": "2024-09-24",
+                "actionTime": "14:05:17",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1486",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 3334) to provide for the imposition of sanctions on members of the National Communist Party Congress of the People's Republic of China, and for other purposes; providing for consideration of the bill (H.R. 8205) to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide that Byrne grant funds may be used for public safety report systems, and for other purposes; providing for consideration of the bill (H.R. 8790) to expedite under the National Environmental Policy Act of 1969 and improve forest management activities on National Forest System lands, on public lands under the jurisdiction of the Bureau of Land Management, and on Tribal lands to return resilience to overgrown, fire-prone forested lands, and for other purposes; providing for consideration of the resolution (H. Res. 1469) ensuring accountability for key officials in the Biden-Harris administration responsible for decisionmaking and execution failures throughout the withdrawal from Afghanistan; and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1486?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-09-17",
+            "latestAction": {
+                "actionDate": "2024-09-18",
+                "actionTime": "14:05:53",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1455",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 3724) to amend the Higher Education Act of 1965 to prohibit recognized accrediting agencies and associations from requiring, encouraging, or coercing institutions of higher education to meet any political litmus test or violate any right protected by the Constitution as a condition of accreditation; providing for consideration of the bill (H.R. 4790) to amend the Federal securities laws with respect to the materiality of disclosure requirements, to establish the Public Company Advisory Committee, and for other purposes; providing for consideration of the bill (H.R. 5179) to require the maintenance of the country of origin markings for imported goods produced in the West Bank or Gaza, and for other purposes; providing for consideration of the bill (H.R. 5339) to amend the Employee Retirement Income Security Act of 1974 to specify requirements concerning the consideration of pecuniary and non-pecuniary factors, and for other purposes; providing for consideration of the bill (H.R. 5717) to provide that sanctuary jurisdictions that provide benefits to aliens who are present in the United States without lawful status under the immigration laws are ineligible for Federal funds intended to benefit such aliens; providing for consideration of the bill (H.R. 7909) to amend the Immigration and Nationality Act to provide that aliens who have been convicted of or who have committed sex offenses or domestic violence are inadmissible and deportable; and providing for consideration of the joint resolution (H.J. Res. 136) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles\".",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1455?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-03-30",
+            "latestAction": {
+                "actionDate": "2026-05-21",
+                "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 44 - 0."
+            },
+            "number": "8163",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Provider Reimbursement Stability Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8163?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-09-10",
+            "latestAction": {
+                "actionDate": "2024-09-10",
+                "actionTime": "14:02:03",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1430",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 1398) to establish the CCP Initiative program, and for other purposes; providing for consideration of the bill (H.R. 1425) to require any convention, agreement, or other international instrument on pandemic prevention, preparedness, and response reached by the World Health Assembly to be subject to Senate ratification; providing for consideration of the bill (H.R. 1516) to establish Department of Homeland Security funding restrictions on institutions of higher education that have a relationship with Confucius Institutes, and for other purposes; providing for consideration of the bill (H.R. 7980) to amend the Internal Revenue Code of 1986 to exclude vehicles the batteries of which contain materials sourced from prohibited foreign entities from the clean vehicle credit; providing for consideration of the bill (H.R. 9456) to amend the Defense Production Act of 1950 with respect to foreign investments in United States agriculture, and for other purposes; and providing for consideration of the bill (H.R. 9494) making continuing appropriations for fiscal year 2025, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1430?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-18",
+            "latestAction": {
+                "actionDate": "2026-09-11",
+                "text": "Became Public Law No: 119-107."
+            },
+            "number": "2196",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "National Emergency Medical Services Memorial Extension Act",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2196?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-10-25",
+            "latestAction": {
+                "actionDate": "2024-10-25",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "10043",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
+            "type": "HR",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/10043?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-07-30",
+            "latestAction": {
+                "actionDate": "2026-07-23",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 484."
+            },
+            "number": "2546",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
+            "type": "S",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/119/s/2546?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-16",
+            "latestAction": {
+                "actionDate": "2024-04-16",
+                "actionTime": "14:13:28",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1149",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 6323) to modify the availability of certain waiver authorities with respect to sanctions imposed with respect to the financial sector of Iran, and for other purposes; providing for consideration of the resolution (H. Res. 1143) condemning Iran's unprecedented drone and missile attack on Israel; providing for consideration of the bill (H.R. 4691) to provide for congressional review of actions to terminate or waive sanctions imposed with respect to Iran; providing for consideration of the bill (H.R. 5947) to provide for the rescission of certain waivers and licenses relating to Iran, and for other purposes; providing for consideration of the bill (H.R. 6046) to designate Ansarallah as a foreign terrorist organization and impose certain sanctions on Ansarallah, and for other purposes; and providing for consideration of the bill (H.R. 4639) to amend section 2702 of title 18, United States Code, to prevent law enforcement and intelligence agencies from obtaining subscriber or customer records in exchange for anything of value, to address communications and records in the possession of intermediary internet service providers, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1149?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-19",
+            "latestAction": {
+                "actionDate": "2024-03-20",
+                "actionTime": "14:09:44",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1085",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 1023) to repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund; providing for consideration of the bill (H.R. 1121) to prohibit a moratorium on the use of hydraulic fracturing; providing for consideration of the bill (H.R. 6009) to require the Director of the Bureau of Land Management to withdraw the proposed rule relating to fluid mineral leases and leasing process, and for other purposes; providing for consideration of the concurrent resolution (H. Con. Res. 86) expressing the sense of Congress that a carbon tax would be detrimental to the United States economy; providing for consideration of the resolution (H. Res. 987) denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes; and providing for consideration of the bill (H.R 7023) to amend section 404 of the Federal Water Pollution Control Act to codify certain regulatory provisions relating to nationwide permits for dredged or fill material, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1085?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-03-11",
+            "latestAction": {
+                "actionDate": "2024-03-12",
+                "actionTime": "14:12:32",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1071",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 6276) to direct the Administrator of General Services and the Director of the Office of Management and Budget to identify the utilization rate of certain public buildings and federally-leased space, and for other purposes, and providing for consideration of the resolution (H. Res. 1065) denouncing the Biden administration's immigration policies.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1071?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-12-10",
+            "latestAction": {
+                "actionDate": "2024-12-10",
+                "actionTime": "14:17:40",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1612",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 7673) to prohibit the Secretary of Energy from prescribing or enforcing energy conservation standards for clothes washers that are not cost-effective or technologically feasible, and for other purposes; providing for consideration of the bill (S. 4199) to authorize additional district judges for the district courts and convert temporary judgeships; and providing for consideration of the Senate amendment to the bill (H.R. 5009) to reauthorize wildlife habitat and conservation programs, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1612?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-12-03",
+            "latestAction": {
+                "actionDate": "2024-12-04",
+                "actionTime": "17:21:11",
+                "text": "Motion to reconsider laid on the table Agreed to without objection."
+            },
+            "number": "1602",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Providing for consideration of the bill (H.R. 5349) to develop and disseminate a civic education curriculum and oral history resources regarding certain political ideologies, and for other purposes, and providing for consideration of the bill (H.R. 7198) to amend title 5, United States Code, to require greater transparency for Federal regulatory decisions that impact small businesses, and for other purposes.",
+            "type": "HRES",
+            "updateDate": "2026-09-28",
+            "updateDateIncludingText": "2026-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1602?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 430529,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
