@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-28",
+            "latestAction": {
+                "actionDate": "2026-09-28",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5123; text: CR S5076)"
+            },
+            "number": "916",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating the week of September 21, 2026, as the \"Ray Gaesser Memorial Farm Safety Week\" to recognize the life and legacy of Ray Gaesser, who passed away in a tragic farming accident, and promote farm safety in the honor of Ray Gaesser.",
+            "type": "SRES",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/sres/916?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-26",
+            "latestAction": {
+                "actionDate": "2026-08-27",
+                "text": "Placed on the Union Calendar, Calendar No. 674."
+            },
+            "number": "5576",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Enhancing Geothermal Production on Federal Lands Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5576?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "10830",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Build More Homes Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10830?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "10829",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "One Front Door for Elder Fraud Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10829?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-13",
+            "latestAction": {
+                "actionDate": "2026-10-13",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "10799",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting American Workers Through H–1B Modernization Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10799?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "10835",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Advanced Manufacturing Jobs in America Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10835?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "10831",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Acquired Lands Revenue Modernization Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10831?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "10837",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "No Corrupt Lobbyists in Government Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10837?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "10839",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Heat Island Reduction Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10839?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "10838",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honesty in Government Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10838?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "10836",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Uniform Code of Military Justice to prohibit the live broadcast of military executions, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10836?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10832",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "IRAN Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10832?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "10833",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Doorway to the American Dream Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10833?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "10811",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "PARTNER Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10811?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "10834",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Gas Money Saved Act",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10834?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-30",
+            "latestAction": {
+                "actionDate": "2026-09-30",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5639",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Portal for Appraisal Licensing Act of 2026",
+            "type": "S",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/s/5639?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-27",
+            "latestAction": {
+                "actionDate": "2021-10-27",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5756",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Portal for Appraisal Licensing Act of 2021",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/117/hr/5756?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-04-20",
+            "latestAction": {
+                "actionDate": "2023-04-20",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "2771",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Portal for Appraisal Licensing Act of 2023",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2771?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-07-27",
+            "latestAction": {
+                "actionDate": "2023-07-27",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "2692",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Portal for Appraisal Licensing Act of 2023",
+            "type": "S",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/118/s/2692?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-19",
+            "latestAction": {
+                "actionDate": "2025-09-19",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "5520",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Portal for Appraisal Licensing Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-10-19",
+            "updateDateIncludingText": "2026-10-19",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5520?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 430970,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
