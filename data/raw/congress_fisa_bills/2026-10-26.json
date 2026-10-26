@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 118,
+            "introducedDate": "2024-07-23",
+            "latestAction": {
+                "actionDate": "2024-08-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "9107",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Airborne Hazards and Open Burn Pit Registry (AHOBPR) 2.0 Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9107?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-28",
+            "latestAction": {
+                "actionDate": "2023-09-29",
+                "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+            },
+            "number": "5795",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Natural Disaster Transparency Enhancement Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5795?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-26",
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 13."
+            },
+            "number": "5729",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To prohibit the use of Federal funds to establish a Homeland Intelligence Experts Group, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5729?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-20",
+            "latestAction": {
+                "actionDate": "2023-09-20",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5609",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To prohibit the use of Federal funds for security protection for the former Director of the National Institute of Allergy and Infectious Diseases who served between January 1984 and December 2022.",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5609?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-22",
+            "latestAction": {
+                "actionDate": "2023-06-22",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "4291",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the United States Postal Service to modify the ZIP Code for Goose Creek, South Carolina, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4291?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-06-22",
+            "latestAction": {
+                "actionDate": "2023-06-22",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "4294",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the President of the United States to designate one month each year as Fidelity Month for the purpose of rededicating our Nation to the values of faith, family, and patriotism.",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4294?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-30",
+            "latestAction": {
+                "actionDate": "2026-09-16",
+                "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably."
+            },
+            "number": "5188",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Muhammad Ali American Boxing Revival Act of 2026",
+            "type": "S",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/119/s/5188?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-03",
+            "latestAction": {
+                "actionDate": "2025-03-03",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "1812",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Care Across Generations Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1812?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-03",
+            "latestAction": {
+                "actionDate": "2025-03-03",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "1784",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Medicare Fraud Detection and Deterrence Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1784?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-09-27",
+            "latestAction": {
+                "actionDate": "2024-12-17",
+                "text": "Referred to the Subcommittee on Trade."
+            },
+            "number": "9876",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "United States-Republic of Korea Digital Trade Enforcement Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9876?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-05",
+            "latestAction": {
+                "actionDate": "2025-05-05",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "3193",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "United States-Republic of Korea Digital Trade Enforcement Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3193?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-11-26",
+            "latestAction": {
+                "actionDate": "2024-11-26",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1600",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financial services and housing industries.",
+            "type": "HRES",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1600?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-11-20",
+            "latestAction": {
+                "actionDate": "2024-11-20",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1587",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the 100th anniversary of mutual funds.",
+            "type": "HRES",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1587?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-11-19",
+            "latestAction": {
+                "actionDate": "2024-11-19",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "10170",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Semiquincentennial Commemorative Coin Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/10170?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-11-15",
+            "latestAction": {
+                "actionDate": "2024-11-15",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "1574",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Calling for the removal of Federal Deposit Insurance Corporation Chairman Martin J. Gruenberg from his position, effective immediately.",
+            "type": "HRES",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1574?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-07-25",
+            "latestAction": {
+                "actionDate": "2024-07-25",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "4791",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Ensuring Continuity in Veterans Health Act",
+            "type": "S",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4791?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-07-23",
+            "latestAction": {
+                "actionDate": "2024-08-28",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "9094",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ACE Veterans Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9094?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-28",
+            "latestAction": {
+                "actionDate": "2024-07-23",
+                "text": "Forwarded by Subcommittee to Full Committee by Voice Vote."
+            },
+            "number": "8910",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Dayton National Cemetery Expansion Act of 2024",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8910?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-01-09",
+            "latestAction": {
+                "actionDate": "2025-01-09",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "245",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Grant Integrity and Border Security Act",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/119/hr/245?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-06-21",
+            "latestAction": {
+                "actionDate": "2024-08-22",
+                "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+            },
+            "number": "8805",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Veterans Legal Support Act of 2024",
+            "type": "HR",
+            "updateDate": "2026-10-26",
+            "updateDateIncludingText": "2026-10-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8805?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 431049,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
