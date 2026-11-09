@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2025-08-01",
+            "latestAction": {
+                "actionDate": "2025-08-01",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4845",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the National Memorial Day Parade, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4845?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-08-01",
+            "latestAction": {
+                "actionDate": "2025-08-01",
+                "text": "Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "4842",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "SBIR Commercialization Improvement Act",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4842?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-08-01",
+            "latestAction": {
+                "actionDate": "2025-12-19",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "4837",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Written Informed Consent Act",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4837?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-03-02",
+            "latestAction": {
+                "actionDate": "2026-03-02",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S735)"
+            },
+            "number": "3960",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Smarter Pretrial Detention for Drug Charges Act of 2026",
+            "type": "S",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/3960?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-08-01",
+            "latestAction": {
+                "actionDate": "2025-08-01",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "4838",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ERIC ADAMS Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4838?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-08-01",
+            "latestAction": {
+                "actionDate": "2025-08-01",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "4835",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Strategic Resources Non-discrimination Act",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/4835?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-02",
+            "latestAction": {
+                "actionDate": "2026-11-02",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10952",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Health Forests Incentives Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10952?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10822",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ALPR Accountability Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10822?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-09-23",
+            "latestAction": {
+                "actionDate": "2026-09-23",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5470",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protecting our Students in Schools Act of 2026",
+            "type": "S",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/s/5470?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-01-23",
+            "latestAction": {
+                "actionDate": "2025-01-23",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S340-341)"
+            },
+            "number": "33",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the recognition of January as \"Muslim-American Heritage Month\" and celebrating the heritage and culture of Muslim Americans in the United States.",
+            "type": "SRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/sres/33?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-31",
+            "latestAction": {
+                "actionDate": "2024-01-31",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "989",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the recognition of January as \"Muslim-American Heritage Month\" and celebrating the heritage and culture of Muslim Americans in the United States.",
+            "type": "HRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/118/hres/989?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-01-25",
+            "latestAction": {
+                "actionDate": "2024-01-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "534",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the recognition of January as \"Muslim-American Heritage Month\" and celebrating the heritage and culture of Muslim Americans in the United States.",
+            "type": "SRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/118/sres/534?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-09-14",
+            "latestAction": {
+                "actionDate": "2021-09-14",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S6505)"
+            },
+            "number": "361",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the recognition of July as \"Muslim-American Heritage Month\" and celebrating the heritage and culture of Muslim Americans in the United States.",
+            "type": "SRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/117/sres/361?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-07-20",
+            "latestAction": {
+                "actionDate": "2021-07-20",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "541",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the recognition of July as \"Muslim-American Heritage Month\" and celebrating the heritage and culture of Muslim Americans in the United States.",
+            "type": "HRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/117/hres/541?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-04-07",
+            "latestAction": {
+                "actionDate": "2025-04-07",
+                "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "2677",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "10th Amendment Restoration Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2677?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-30",
+            "latestAction": {
+                "actionDate": "2025-09-30",
+                "text": "Referred to the Committee on the Judiciary."
+            },
+            "number": "423",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing the month of October 2025 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
+            "type": "SRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/119/sres/423?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-10-28",
+            "latestAction": {
+                "actionDate": "2021-10-28",
+                "text": "Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S7464-7465; text: CR S7464)"
+            },
+            "number": "432",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing the month of October 2021 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
+            "type": "SRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/117/sres/432?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-10-11",
+            "latestAction": {
+                "actionDate": "2022-10-11",
+                "text": "Referred to the Committee on the Judiciary. (text: CR S6472-6473)"
+            },
+            "number": "825",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution recognizing the month of October 2022 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
+            "type": "SRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/117/sres/825?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-10-28",
+            "latestAction": {
+                "actionDate": "2022-10-28",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "1449",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing the month of October 2022 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
+            "type": "HRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/117/hres/1449?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-09-29",
+            "latestAction": {
+                "actionDate": "2023-09-29",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "744",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing the month of October 2023 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
+            "type": "HRES",
+            "updateDate": "2026-11-09",
+            "updateDateIncludingText": "2026-11-09",
+            "url": "https://api.congress.gov/v3/bill/118/hres/744?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 431127,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
