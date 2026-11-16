@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-09",
+            "latestAction": {
+                "actionDate": "2026-11-10",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "9613",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Nuclear Advisory Committee Reform Act",
+            "type": "HR",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9613?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-03-19",
+            "latestAction": {
+                "actionDate": "2026-03-19",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8018",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "ISLET Act",
+            "type": "HR",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8018?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-14",
+            "latestAction": {
+                "actionDate": "2025-04-09",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "2116",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Law Enforcement Support and Counter Transnational Repression Act",
+            "type": "HR",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hr/2116?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-10-29",
+            "latestAction": {
+                "actionDate": "2026-11-10",
+                "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)"
+            },
+            "number": "472",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution supporting the designation of October 30 as the \"International Day of Political Prisoners\".",
+            "type": "SRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/sres/472?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Read twice and referred to the Committee on Foreign Relations under authority of the order of the Senate of 09/30/2026."
+            },
+            "number": "5682",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Foreign Government-Owned Media FARA Registration Act",
+            "type": "S",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/s/5682?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-10-15",
+            "latestAction": {
+                "actionDate": "2026-10-15",
+                "text": "Read twice and referred to the Committee on Finance under authority of the order of the Senate of 09/30/2026."
+            },
+            "number": "5689",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "RECLAIM Act",
+            "type": "S",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/s/5689?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-08",
+            "latestAction": {
+                "actionDate": "2025-05-08",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "3281",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To prohibit the reduction, elimination, or suspension of funding for land-grant colleges and universities.",
+            "type": "HR",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hr/3281?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-23",
+            "latestAction": {
+                "actionDate": "2026-04-23",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "1212",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1212?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-04-11",
+            "latestAction": {
+                "actionDate": "2024-04-11",
+                "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2721)"
+            },
+            "number": "637",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the staff of public, school, academic, and special libraries in the United States and the essential services those libraries provide to communities, recognizing the need for funding commensurate with the broad scope of social service and community supports provided by libraries, preserving the right of all citizens of the United States to freely access information and resources in their communities, supporting a strong union voice for library workers, and defending the civil rights of library staff.",
+            "type": "SRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/118/sres/637?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-02-02",
+            "latestAction": {
+                "actionDate": "2023-02-02",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "94",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/118/hres/94?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-02-21",
+            "latestAction": {
+                "actionDate": "2025-02-21",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "146",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hres/146?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-02-09",
+            "latestAction": {
+                "actionDate": "2022-02-09",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "918",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/117/hres/918?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-20",
+            "latestAction": {
+                "actionDate": "2026-08-20",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1485",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of August 22, 2026, as \"Chuck Brown Day\", and honoring Chuck Brown's contributions to music and to the District of Columbia.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1485?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2024-08-20",
+            "latestAction": {
+                "actionDate": "2024-08-20",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "1415",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of August 22, 2024, as national \"Chuck Brown Day\", and honoring his contributions to music and to the District of Columbia.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1415?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-08-22",
+            "latestAction": {
+                "actionDate": "2023-08-22",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "662",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of August 22, 2023, as national \"Chuck Brown Day\", and honoring his contributions to music and to the District of Columbia.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/118/hres/662?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2022-08-16",
+            "latestAction": {
+                "actionDate": "2022-08-16",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "1324",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of August 22, 2022, as national \"Chuck Brown Day\", and honoring his contributions to music and to the District of Columbia.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/117/hres/1324?format=json"
+        },
+        {
+            "congress": 117,
+            "introducedDate": "2021-08-20",
+            "latestAction": {
+                "actionDate": "2021-08-20",
+                "text": "Referred to the House Committee on Oversight and Reform."
+            },
+            "number": "593",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of August 22, 2021, as national \"Chuck Brown Day\", and honoring his contributions to music and to the District of Columbia.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/117/hres/593?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-09",
+            "latestAction": {
+                "actionDate": "2026-11-09",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "10970",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Cardiovascular Disease Early Detection and Prevention Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hr/10970?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-14",
+            "latestAction": {
+                "actionDate": "2026-04-14",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "8260",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Cardiovascular Disease Early Detection and Prevention Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8260?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-24",
+            "latestAction": {
+                "actionDate": "2026-08-24",
+                "text": "Referred to the House Committee on Oversight and Government Reform."
+            },
+            "number": "1488",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing the significance of \"Chicano/Chicana Heritage Month\" in August as an important time to celebrate the significant contributions of Mexican Americans to the history of the United States.",
+            "type": "HRES",
+            "updateDate": "2026-11-16",
+            "updateDateIncludingText": "2026-11-16",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1488?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 431254,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
