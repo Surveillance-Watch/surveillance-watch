@@ -1,0 +1,332 @@
+{
+    "bills": [
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-09",
+            "latestAction": {
+                "actionDate": "2026-11-10",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "9614",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "NRC Staff Pay Alignment Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9614?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-15",
+            "latestAction": {
+                "actionDate": "2026-07-15",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "1432",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Of inquiry requesting the President and directing the Secretary of Health and Human Services to transmit, respectively, certain documents to the House of Representatives relating to the freeze on State-based Temporary Assistance for Needy Families, Child Care and Development Fund, and Social Services Block Grant payments for California, Colorado, Illinois, Minnesota, and New York.",
+            "type": "HRES",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hres/1432?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-09-08",
+            "latestAction": {
+                "actionDate": "2025-09-08",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "5211",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Peace Officer Standards and Training Agency Information Access Clarification Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/5211?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-04-16",
+            "latestAction": {
+                "actionDate": "2026-11-20",
+                "text": "Signed by President."
+            },
+            "number": "8352",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Criminal History Access Act of 2026",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8352?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-10",
+            "latestAction": {
+                "actionDate": "2026-11-10",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5702",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Justice for Incarcerated Moms Act",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/5702?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-08-06",
+            "latestAction": {
+                "actionDate": "2026-08-06",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5283",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Momnibus Act",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/5283?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-03-18",
+            "latestAction": {
+                "actionDate": "2026-04-20",
+                "text": "Referred to the Subcommittee on Health."
+            },
+            "number": "7973",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Momnibus Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/7973?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-07-21",
+            "latestAction": {
+                "actionDate": "2026-07-21",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9817",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Justice for Incarcerated Moms Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/9817?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-03-19",
+            "latestAction": {
+                "actionDate": "2026-03-19",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8024",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Maternal Vaccination Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8024?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-14",
+            "latestAction": {
+                "actionDate": "2026-05-14",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "8829",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Reproductive Health Care Accessibility Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8829?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-17",
+            "latestAction": {
+                "actionDate": "2026-11-17",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5736",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Hemp Guardrails Act",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/5736?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-12-04",
+            "latestAction": {
+                "actionDate": "2025-12-04",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "6475",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Preventing Child Trafficking Act of 2025",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/6475?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-05-01",
+            "latestAction": {
+                "actionDate": "2025-05-01",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "1562",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "PREEMIE Reauthorization Act of 2025",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/1562?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-19",
+            "latestAction": {
+                "actionDate": "2026-11-19",
+                "text": "Referred to the Committee on the Judiciary."
+            },
+            "number": "962",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating the week of November 27 through December 3, 2026, as \"National Electronic Transactions Week\".",
+            "type": "SRES",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/sres/962?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-05-07",
+            "latestAction": {
+                "actionDate": "2026-11-18",
+                "text": "Ordered to be Reported by Unanimous Consent."
+            },
+            "number": "8674",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Geese House Site Conveyance Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/8674?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-17",
+            "latestAction": {
+                "actionDate": "2026-11-17",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5724",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Protecting Approved Care Act",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/5724?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-18",
+            "latestAction": {
+                "actionDate": "2026-11-18",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5745",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Less Bureaucracy, Better Family Engagement Act",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/5745?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2026-11-18",
+            "latestAction": {
+                "actionDate": "2026-11-18",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5742",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Less Bureaucracy, Better K–12 Education Act",
+            "type": "S",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/s/5742?format=json"
+        },
+        {
+            "congress": 119,
+            "introducedDate": "2025-03-03",
+            "latestAction": {
+                "actionDate": "2025-03-03",
+                "text": "Referred to the House Committee on Education and Workforce."
+            },
+            "number": "1783",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "American Apprenticeship Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/119/hr/1783?format=json"
+        },
+        {
+            "congress": 118,
+            "introducedDate": "2023-01-25",
+            "latestAction": {
+                "actionDate": "2023-01-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "511",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "American Apprenticeship Act",
+            "type": "HR",
+            "updateDate": "2026-11-23",
+            "updateDateIncludingText": "2026-11-23",
+            "url": "https://api.congress.gov/v3/bill/118/hr/511?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 431489,
+        "next": "https://api.congress.gov/v3/bill?sort=updateDate desc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
